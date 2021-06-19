@@ -24,10 +24,12 @@ h2{
 }
 button{
     float: right;
-    background-color: #f5f3f3;
+    background:none;
     cursor: pointer;
     width: 8%;
     height: 45px;
+    border:none;
+    float:right;
     
 }
 button:hover{
