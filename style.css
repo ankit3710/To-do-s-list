@@ -18,7 +18,7 @@ h2{
 }
 #input{
     width: 87%;
-    height: 40px;
+    height: 41px;
     font-size: 18px;
     font-weight: bold;
 }
@@ -26,14 +26,14 @@ button{
     float: right;
     background:none;
     cursor: pointer;
-    width: 8%;
+    width: 10%;
     height: 45px;
     border:none;
     float:right;
     
 }
 button:hover{
-    color:darkgray;
+    color:rgb(4,0,255);
 }
 .todos{
     color: white;
