@@ -18,7 +18,9 @@ function createList(){
     
 };
 pen.onclick=function(){
+    if (input.value.length > 0){
     createList()
+    }
 };
     
 
